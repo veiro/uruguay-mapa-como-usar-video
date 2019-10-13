@@ -1,5 +1,5 @@
 {
-  "name": "angular7",
+  "name": "usando-mapa-uruguay",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
@@ -22,7 +22,7 @@
     "core-js": "^2.5.4",
     "rxjs": "~6.3.3",
     "tslib": "^1.9.0",
-    "uruguay-mapa": "0.0.21",
+    "uruguay-mapa": "0.0.23",
     "zone.js": "~0.8.26"
   },
   "devDependencies": {
